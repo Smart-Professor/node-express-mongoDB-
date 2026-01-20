@@ -6,5 +6,5 @@ module.exports = {
     host: 'localhost',
     // 静态文件目录配置
     // MongoDB 连接字符串（使用远程MongoDB）
-    mongoUri: 'mongodb://allapi:k4rAzNndXtLpEK7B@121.41.7.240:27017/allapi'
+    mongoUri: 'mongodb://库名:密码@IP地址:端口/库名'
 };
